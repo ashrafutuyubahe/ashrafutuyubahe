@@ -1,0 +1,11 @@
+{
+  "name": "ashraf_distancecalculation_tool",
+  "version": "1.0.0",
+  "description": "use this package to calculate distance between 2 points on the earth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashrafu tuyubahe",
+  "license": "ISC"
+}
